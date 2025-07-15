@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ekans122
-- 👀 I’m interested in Web & Mobile Development
+- 👀 I’m interested in AI | Web & Mobile Development
 - 🌱 Also I’m **Blockchain** master, Awesome!!!
      <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 💞️ I’m looking to collaborate on you through github
